@@ -1,4 +1,4 @@
-# Model Order Reduction of PDEs by Neural Networks
+# Model order reduction of time dependent PDEs by machine learning: application in CFD
 
 Numerical analysis usually requires a huge effort in terms
 of computations, memory storage and time because of the high order of
