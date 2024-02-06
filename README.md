@@ -1,4 +1,4 @@
-# Model Order Reduction of PDEs by Machine Learning
+# Model Order Reduction of PDEs by Neural Networks
 
 Numerical analysis usually requires a huge effort in terms
 of computations, memory storage and time because of the high order of
