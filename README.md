@@ -22,5 +22,5 @@ the temperature in three points of the domain.
 
 ## Authors
 * [Matteo Tomasetto](https://github.com/MatteoTomasetto)
-Simone Pescuma
-Cipriano Innella
+* Simone Pescuma
+* Cipriano Innella
